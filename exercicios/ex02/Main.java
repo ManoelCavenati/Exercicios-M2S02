@@ -14,7 +14,7 @@ public class Main {
         boolean naoPrimo = false;
         int i = 1;
 
-        while (i <= numero && naoPrimo == false) {
+        while (i <= numero && !naoPrimo) {
             if (numero % i == 0) {
                 if (i != numero && i != 1)
                     naoPrimo = true;
