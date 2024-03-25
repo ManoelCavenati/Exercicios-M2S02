@@ -2,7 +2,7 @@ package exercicios.ex04;
 
 import java.util.Scanner;
 
-public class Main {
+public class TabelaDeMultiplicação {
 
     public static void main(String[] args) {
 

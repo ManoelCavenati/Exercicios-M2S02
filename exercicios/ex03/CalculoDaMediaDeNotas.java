@@ -1,6 +1,6 @@
 package exercicios.ex03;
 
-public class Main {
+public class CalculoDaMediaDeNotas {
 
     public static void main(String[] args) {
 

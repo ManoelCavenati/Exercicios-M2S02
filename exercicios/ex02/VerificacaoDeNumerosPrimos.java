@@ -2,7 +2,7 @@ package exercicios.ex02;
 
 import java.util.Scanner;
 
-public class Main {
+public class VerificacaoDeNumerosPrimos {
 
     public static void main(String[] args) {
 

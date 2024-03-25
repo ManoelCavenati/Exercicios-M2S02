@@ -2,7 +2,7 @@ package exercicios.ex01;
 
 import java.util.Scanner;
 
-public class Main {
+public class SomaDosNumerosEmUmIntervalo {
 
     public static void main(String[] args) {
 
